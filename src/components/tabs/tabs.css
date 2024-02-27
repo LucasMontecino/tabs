@@ -1,0 +1,25 @@
+.wrapper {
+    border: 1px solid #fff;
+    padding: 22px;
+    height: 300px;
+    width: 400px;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.content {
+    margin-top: 100px;
+}
+
+.label {
+    border: 1px solid #fff;
+    padding: 10px;
+}
+
+.active {
+    background-color: #F4D03F;
+}
